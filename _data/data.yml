@@ -197,29 +197,23 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some of the projects I completed during various courses are listed below, organized by course name.
     assignments:
       - title: Artificial Intelligence
         link: https://github.com/moaliSafaei/Machine_Learning
         tagline: "ML algorithms & Neural Networks implementation (2023)."
 
-      - title: DevStudio
+      - title: Viscoelasticity 
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Investigating Linear Viscoelastic behavior of TPMS Architectures."
 
-      - title: Tempo
+      - title: Non-linear solid mechanics
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "pH & temp dependent behavior of Hydrogel structures based on TPMS geometry."
 
-      - title: Atom
+      - title: FEM: Advanced
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Implementation of FEM Algorithms in MATLAB, Python and ABAQUS."
 
 
         
