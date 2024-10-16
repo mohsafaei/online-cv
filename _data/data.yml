@@ -200,7 +200,7 @@ projects:
       Some of the projects I completed during various courses are listed below, organized by course name.
     assignments:
       - title: Artificial Intelligence
-        link: https://github.com/moaliSafaei/Machine_Learning
+        link: "https://github.com/moaliSafaei/Machine_Learning"
         tagline: "ML algorithms & Neural Networks implementation (2023)."
 
       - title: Viscoelasticity 
@@ -211,7 +211,7 @@ projects:
         link: "#"
         tagline: "pH & temp dependent behavior of Hydrogel structures based on TPMS geometry."
 
-      - title: FEM: Advanced
+      - title: FEM Advanced
         link: "#"
         tagline: "Implementation of FEM Algorithms in MATLAB, Python and ABAQUS."
 
