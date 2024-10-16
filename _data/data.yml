@@ -119,8 +119,8 @@ experiences:
       - role: Intern
         time: 2012 - 2014
         company: IKCO – Tehran, Iran 
-        details: |https://github.com/mohsafaei/online-cv/blob/master/_data/data.yml
-          Provided services at 1- Engine Department: Machining and Assembly lines. 2- QC Department:
+        details: |
+          Provided services at 1- Engine Department, Machining and Assembly lines. 2- QC Department.
       - role: Junior Engineer
         time: 2012 - 2014
         company: MDFICO (Knowledge-Based Enterprise Company - Grade A) – Tehran, Iran 
