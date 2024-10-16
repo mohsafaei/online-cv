@@ -71,7 +71,7 @@ education:
     info:
       - degree: M.Sc. in Mechanical Engineering
         university: University of Tehran
-        time: 2016 - 2021
+        time: 2021 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -82,7 +82,7 @@ education:
             - Bullet point
       - degree: B.Sc. in Mechanical Engineering
         university: Bu-Ali Sina University
-        time: 2021 - 2024
+        time: 2016 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -115,14 +115,14 @@ experiences:
         time: 2024 - Present
         company: Emamat High School
         details: |
-          Taught more that 100 students so far.
+          Taught more than 100 students so far.
       - role: Intern
-        time: 2012 - 2014
+        time: 2021
         company: IKCO – Tehran, Iran 
         details: |
           Provided services at 1- Engine Department, Machining and Assembly lines. 2- QC Department.
       - role: Junior Engineer
-        time: 2012 - 2014
+        time: 2018 - 2020
         company: MDFICO (Knowledge-Based Enterprise Company - Grade A) – Tehran, Iran 
         details: |
           Provided services at 1- Casting Shop: Low-pressure and gravity casting of magnesium and aluminum alloys. 2- QC Department: DT & NDT test.
@@ -160,7 +160,7 @@ certifications:
           details: |
 
         - name: Python - Fundamental & Advanced
-          start: 2019
+          start: 
           end:
           organization: 
           credentialid:
@@ -168,7 +168,7 @@ certifications:
           credentialname: 
           details: |
         - name: COMSOL - Multiphysics
-          start: 2019
+          start: 
           end:
           organization: 
           credentialid:
@@ -176,7 +176,7 @@ certifications:
           credentialname: 
           details: |
         - name: MATLAB - fundamental 
-          start: 2019
+          start: 
           end:
           organization: 
           credentialid:
@@ -184,7 +184,7 @@ certifications:
           credentialname: 
           details: |    
         - name: Piping principles and design 
-          start: 2019
+          start: 
           end:
           organization: 
           credentialid:
@@ -192,7 +192,7 @@ certifications:
           credentialname: 
           details: |
         - name: Pneumatic Technician
-          start: 2019
+          start: 
           end:
           organization: 
           credentialid:
@@ -200,7 +200,7 @@ certifications:
           credentialname: 
           details: |
         - name: ISO 9001 Standard Auditing   
-          start: 2019
+          start: 
           end:
           organization: 
           credentialid:
