@@ -10,21 +10,21 @@ sidebar:
     # Profile information
     name: Mohammad Ali Safaei
     tagline: Research Assistant
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: mohammadsf1998@gmail.com
-    phone: 019 463 5081
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    phone: 919 463 5081
+    timezone: Iran/Tehran # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: https://example.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: mohsafaei
-    xing: alandoe
+    xing: 
     github: mohsafaei
     telegram: mohsafaei
     gitlab:
     bitbucket:
-    twitter: '@jekyllrb'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -60,12 +60,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a dedicated mechanical engineer specializing in solid mechanics, with a strong academic and research background. 
+      I completed my M.Sc. at the University of Tehran (2021-2024), where I focused on the electromechanical performance of metamaterial dielectric elastomer actuators.
+      Prior to that, I earned my B.Sc. in Mechanical Engineering from Bu-Ali Sina University (2016-2021). 
+      Professionally, I have worked as a research assistant and teaching assistant at the University of Tehran, supervising students in the Smart Materials & Structures Lab. 
+      I also serve as a peer reviewer for renowned scientific journals and have gained practical experience through part-time 3D printing operations and as a junior engineer at MDFICO in the casting and QC departments. 
+      Additionally, I interned at IKCO, working in the engine and QC departments, further honing my engineering skills.
 education:
     title: Education
     info:
