@@ -71,7 +71,7 @@ education:
     info:
       - degree: M.Sc. in Mechanical Engineering
         university: University of Tehran
-        time: 2017 - 2021
+        time: 2016 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -95,44 +95,38 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Research Assistant
+        time: 2022 - Present
+        company: School of Mechanical Engineering, University of Tehran, Tehran, Iran 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Supervised and mentored students in the Smart Materials & Structures Laboratory (SMS Lab).
+          Conducted part-time 3D printing operations, specializing in PLA and ABS materials.
+      - role: Teacher Assistant   
+        time: 2023 - 2024
+        company: School of Mechanical Engineering, University of Tehran, Tehran, Iran 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          FEM, Continuum, Non-linear Solid Mechanics and Research Methodology Courses.
+      - role: Peer-reviewer
+        time: 2023 - Present
+        company: Voluntary Job 
+        details: |
+          Elsevier (Chemical Engineering Journal, Additive Manufacturing, International Journal of Biological Macromolecules), Wiley (Advanced Engineering Materials), MDPI (polymers), etc.
+      - role: General English Teacher 
+        time: 2024 - Present
+        company: Emamat High School
+        details: |
+          Taught more that 100 students so far.
+      - role: Intern
         time: 2012 - 2014
-        company: Amazon, London
+        company: IKCO – Tehran, Iran 
+        details: |https://github.com/mohsafaei/online-cv/blob/master/_data/data.yml
+          Provided services at 1- Engine Department: Machining and Assembly lines. 2- QC Department:
+      - role: Junior Engineer
+        time: 2012 - 2014
+        company: MDFICO (Knowledge-Based Enterprise Company - Grade A) – Tehran, Iran 
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          Provided services at 1- Casting Shop: Low-pressure and gravity casting of magnesium and aluminum alloys. 2- QC Department: DT & NDT test.
+          
 publications:
     title: Publications
     intro: |
