@@ -42,8 +42,8 @@ sidebar:
         - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: 
+          level: 
 
     interests:
       title: Interests
@@ -69,8 +69,8 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Mechanical Engineering
-        university: University of Bu-Ali Sina
+      - degree: M.Sc. in Mechanical Engineering
+        university: University of Tehran
         time: 2017 - 2021
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -80,8 +80,8 @@ education:
           pretium quis, sem.
             - Bullet point
             - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: University of Tehran
+      - degree: B.Sc. in Mechanical Engineering
+        university: Bu-Ali Sina University
         time: 2021 - 2024
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -223,14 +223,12 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here are some of my Research Articles:
     papers:
       - title: The Art of Computer Programming
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: Mohammad Ali Safaei
+        conference: European Journal of Mechanics - A/Solids , 2024
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -246,23 +244,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: ABAQUS
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: Matlab
+        level: 75%
 
-      - name: HTML5 & CSS
+      - name: Comsol
+        level: 70%
+
+      - name: LS-DYNA
+        level: 65%
+
+      - name: MS Office
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
