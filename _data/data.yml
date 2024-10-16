@@ -225,19 +225,19 @@ publications:
     intro: |
       Here are some of my Research Articles:
     papers:
-      - title: The Art of Computer Programming
+      - title: In Silico Actuation Performance Investigation of Metamaterial Dielectric Elastomers with TPMS Geometries (Under Review)
         link: "#"
-        authors: Mohammad Ali Safaei
-        conference: European Journal of Mechanics - A/Solids , 2024
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
+        conference: "European Journal of Mechanics - A/Solids , 2024"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Towards Responsive Polymer Actuators Based on Novel Composite Structures (Book Chapter) (Submitted)
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Shape Recovery Optimization of Shape Memory Polymers with TPMS Geometries Using a Genetic Algorithm (In Completion)
         link: "#"
-        authors: Edgar T. Irons
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi.
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
@@ -245,19 +245,19 @@ skills:
 
     toolset:
       - name: Python 
-        level: 80%
+        level: 85%
 
       - name: ABAQUS
         level: 90%
 
       - name: Matlab
-        level: 75%
+        level: 80%
 
       - name: Comsol
-        level: 70%
+        level: 75%
 
       - name: LS-DYNA
-        level: 65%
+        level: 70%
 
       - name: MS Office
         level: 95%
