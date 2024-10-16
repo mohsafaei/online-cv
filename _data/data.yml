@@ -133,6 +133,26 @@ experiences:
             - Bullet point
             - Bullet point
 
+publications:
+    title: Publications
+    intro: |
+      Here are some of my Research Articles:
+    papers:
+      - title: In Silico Actuation Performance Investigation of Metamaterial Dielectric Elastomers with TPMS Geometries (Under Review)
+        link: "#"
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
+        conference: "European Journal of Mechanics - A/Solids , 2024"
+
+      - title: Towards Responsive Polymer Actuators Based on Novel Composite Structures (Book Chapter) (Submitted)
+        link: "#"
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: Shape Recovery Optimization of Shape Memory Polymers with TPMS Geometries Using a Genetic Algorithm (In Completion)
+        link: "#"
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi.
+        conference: "Comm. ACM 4 (1961), 51–55"
+
 certifications:
       title: Certifications
       list:
@@ -219,27 +239,7 @@ oss:
       - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      Here are some of my Research Articles:
-    papers:
-      - title: In Silico Actuation Performance Investigation of Metamaterial Dielectric Elastomers with TPMS Geometries (Under Review)
-        link: "#"
-        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
-        conference: "European Journal of Mechanics - A/Solids , 2024"
-
-      - title: Towards Responsive Polymer Actuators Based on Novel Composite Structures (Book Chapter) (Submitted)
-        link: "#"
-        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: Shape Recovery Optimization of Shape Memory Polymers with TPMS Geometries Using a Genetic Algorithm (In Completion)
-        link: "#"
-        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi.
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+        
 skills:
     title: Skills &amp; Proficiency
 
@@ -257,7 +257,7 @@ skills:
         level: 75%
 
       - name: LS-DYNA
-        level: 70%
+        level: 75%
 
       - name: MS Office
         level: 95%
