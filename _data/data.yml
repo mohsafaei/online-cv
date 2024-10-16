@@ -140,17 +140,17 @@ publications:
     papers:
       - title: In Silico Actuation Performance Investigation of Metamaterial Dielectric Elastomers with TPMS Geometries (Under Review)
         link: "#"
-        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baniassadi, Mahdi Bodaghi.
         conference: "European Journal of Mechanics - A/Solids , 2024"
 
       - title: Towards Responsive Polymer Actuators Based on Novel Composite Structures (Book Chapter) (Submitted)
         link: "#"
-        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi, Mahdi Bodaghi.
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baniassadi, Mahdi Bodaghi.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
       - title: Shape Recovery Optimization of Shape Memory Polymers with TPMS Geometries Using a Genetic Algorithm (In Completion)
         link: "#"
-        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baiassadi.
+        authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baniassadi.
         conference: "Comm. ACM 4 (1961), 51–55"
 
 certifications:
@@ -201,9 +201,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Artificial Intelligence
+        link: https://github.com/moaliSafaei/Machine_Learning
+        tagline: "ML algorithms & Neural Networks implementation (2023)."
 
       - title: DevStudio
         link: "#"
