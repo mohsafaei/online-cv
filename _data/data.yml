@@ -45,13 +45,16 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 
+        - item: Computational Solid Mechanics
           link:
 
-        - item: Snowboarding
+        - item: Constitutive Modelling 
           link:
 
-        - item: Cooking
+        - item: Artificial Intelligence
+          link:
+
+        - item: Additive Manufacturing 
           link:
 
 career-profile:
@@ -218,24 +221,7 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
 skills:
     title: Skills &amp; Proficiency
@@ -258,6 +244,9 @@ skills:
 
       - name: MS Office
         level: 95%
+
+      - name: SOLIDWORKS 
+        level: 90%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
