@@ -140,12 +140,12 @@ publications:
       - title: Towards Responsive Polymer Actuators Based on Novel Composite Structures (Book Chapter) (Submitted)
         link: "#"
         authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baniassadi, Mahdi Bodaghi.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: 
 
       - title: Shape Recovery Optimization of Shape Memory Polymers with TPMS Geometries Using a Genetic Algorithm (In Completion)
         link: "#"
         authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baniassadi.
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: 
 
 certifications:
       title: Certifications
@@ -155,7 +155,7 @@ certifications:
           end: 
           organization: 
           credentialid: 
-          credentialurl: 
+          credentialurl: ISO9001_2015_M.A.Safaei.pdf
           credentialname: 
           details: |
 
