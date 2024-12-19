@@ -133,7 +133,7 @@ publications:
       Here are some of my Research Articles:
     papers:
       - title: In Silico Actuation Performance Investigation of Metamaterial Dielectric Elastomers with TPMS Geometries (Under Review)
-        link: "#"
+        link: https://doi.org/10.1016/j.euromechsol.2024.105540
         authors: Mohammad Ali Safaei, Mostafa Baghani, Majid Baniassadi, Mahdi Bodaghi.
         conference: "European Journal of Mechanics - A/Solids , 2024"
 
